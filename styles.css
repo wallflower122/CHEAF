@@ -4,6 +4,10 @@ body,html {
 font-family: 'Prompt', sans-serif;
 }
 
+a{
+    text-decoration: none;
+}
+
 ::-webkit-scrollbar {
     display: none;
   }
